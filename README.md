@@ -10,3 +10,6 @@
 
 **31 Oktober 2026** (Progres 37.5%)
 - Studi Kasus Pengalaman Belajar
+
+**4 November 2026** (Progres 50%)
+- Git Branches
